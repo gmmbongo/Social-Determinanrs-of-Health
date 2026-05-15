@@ -31,7 +31,7 @@ sdoh-health-equity-analysis/
 
 - Which counties have the highest overlap of poverty, uninsured rates, and unemployment?
 - Are counties with high poverty farther from hospitals and trauma centers?
-- How does broadband access vary by region — and what does that mean for telehealth?
+- How does broadband access vary by region, and what does that mean for telehealth?
 - Which racial groups face the greatest concentration of poverty at the county level?
 
 ## Tools & Libraries
